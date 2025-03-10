@@ -17,7 +17,7 @@ A comprehensive Python tool for converting text descriptions into 3D models usin
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/text-to-3d-pipeline.git
+git clone https://github.com/Nils1511/text-to-3d-pipeline.git
 cd text-to-3d-pipeline
 ```
 
