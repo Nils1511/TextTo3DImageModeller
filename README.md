@@ -1,4 +1,4 @@
-# Enhanced Text-to-3D Pipeline
+# Text-to-3D Pipeline
 
 A comprehensive Python tool for converting text descriptions into 3D models using diffusion models and 3D generation APIs.
 
