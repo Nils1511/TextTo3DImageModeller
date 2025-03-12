@@ -279,7 +279,7 @@ class TextTo3DPipeline:
             image, image_path = self.generate_image(text_prompt, **kwargs)
             
             # Step 2: Convert image to 3D model
-            model_path = self.convert_image_to_3d(image_path, model=model)
+            model_path = self.convert_image_to_3d(image_path, model_name=model)
         
         return model_path
     
